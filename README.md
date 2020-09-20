@@ -1,6 +1,6 @@
 # Tinkoff recommendations hackaton
 
-We are team **T^2**.
+We are team **T^2**.  
 ![alt logo](t2_logo.jpeg)
 
 Our submission work is divided into two parts:
